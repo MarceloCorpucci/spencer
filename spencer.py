@@ -6,5 +6,5 @@ class Spencer(BotPlugin):
 
     @botcmd
     def Feature(self, args):
-    	"""Minimal implementation"""
+        """Minimal implementation"""
         return "Got it, don't forget the feature name."
