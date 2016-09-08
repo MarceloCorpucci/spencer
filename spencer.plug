@@ -3,7 +3,7 @@ Name = Spencer
 Module = spencer
 
 [Python]
-Version = 3+
+Version = 3
 
 [Documentation]
 Description = Plugin for Errbot that responds to basic calling.
