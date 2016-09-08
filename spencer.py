@@ -5,6 +5,6 @@ class Spencer(BotPlugin):
     """Spencer basic plugin for Errbot"""
 
     @botcmd
-    def feature(self, args):
+    def feature(self):
         """Minimal implementation"""
         return "Got it, don't forget the feature name."
