@@ -1,6 +1,6 @@
 [Core]
 Name = Spencer
-Module = Spencer
+Module = spencer
 
 [Python]
 Version = 3+
