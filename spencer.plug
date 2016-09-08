@@ -1,0 +1,9 @@
+[Core]
+Name = Spencer
+Module = basic_test
+
+[Python]
+Version = 3+
+
+[Documentation]
+Description = Plugin for Errbot that responds to basic calling.
